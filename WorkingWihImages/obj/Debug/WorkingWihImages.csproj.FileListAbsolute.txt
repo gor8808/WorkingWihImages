@@ -1,0 +1,15 @@
+C:\Users\Dell\Desktop\Gor\C#\MIC\WorkingWihImages\WorkingWihImages\bin\Debug\WorkingWihImages.exe.config
+C:\Users\Dell\Desktop\Gor\C#\MIC\WorkingWihImages\WorkingWihImages\bin\Debug\WorkingWihImages.exe
+C:\Users\Dell\Desktop\Gor\C#\MIC\WorkingWihImages\WorkingWihImages\bin\Debug\WorkingWihImages.pdb
+C:\Users\Dell\Desktop\Gor\C#\MIC\WorkingWihImages\WorkingWihImages\obj\Debug\WorkingWihImages.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\Gor\C#\MIC\WorkingWihImages\WorkingWihImages\obj\Debug\MainWindow.g.cs
+C:\Users\Dell\Desktop\Gor\C#\MIC\WorkingWihImages\WorkingWihImages\obj\Debug\App.g.cs
+C:\Users\Dell\Desktop\Gor\C#\MIC\WorkingWihImages\WorkingWihImages\obj\Debug\WorkingWihImages_MarkupCompile.cache
+C:\Users\Dell\Desktop\Gor\C#\MIC\WorkingWihImages\WorkingWihImages\obj\Debug\WorkingWihImages_MarkupCompile.lref
+C:\Users\Dell\Desktop\Gor\C#\MIC\WorkingWihImages\WorkingWihImages\obj\Debug\MainWindow.baml
+C:\Users\Dell\Desktop\Gor\C#\MIC\WorkingWihImages\WorkingWihImages\obj\Debug\WorkingWihImages.g.resources
+C:\Users\Dell\Desktop\Gor\C#\MIC\WorkingWihImages\WorkingWihImages\obj\Debug\WorkingWihImages.Properties.Resources.resources
+C:\Users\Dell\Desktop\Gor\C#\MIC\WorkingWihImages\WorkingWihImages\obj\Debug\WorkingWihImages.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\Gor\C#\MIC\WorkingWihImages\WorkingWihImages\obj\Debug\WorkingWihImages.exe
+C:\Users\Dell\Desktop\Gor\C#\MIC\WorkingWihImages\WorkingWihImages\obj\Debug\WorkingWihImages.pdb
+C:\Users\Dell\Desktop\Gor\C#\MIC\WorkingWihImages\WorkingWihImages\obj\Debug\WorkingWihImages.csproj.CoreCompileInputs.cache
